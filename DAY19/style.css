@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vw;
+    width: 100vw;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
